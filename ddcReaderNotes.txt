@@ -1,0 +1,8 @@
+-holding both buttons for clears captured list
+-red lit indicates captured error codes
+-grn indicates bus activity (not necessarily err code activity)
+-2hz blinking orange indicates err list full
+-1st line shows 'code - time since last code arrived'
+-2nd line may indicate err class or small description depending on avail rom
+-on pwrup 1st line shows 'ddcErrCodeReader' 2nd line shows ' v1.00'.
+-when a keypress is detected, backlight is lit for 3s (also on pwrup)
